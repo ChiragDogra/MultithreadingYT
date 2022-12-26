@@ -1,0 +1,14 @@
+Que1.  What is a Thread?
+Ans:   The unit of process that has independent path of execution is called thread.
+       It is also called light-weight process.
+
+Que2.  What is Multithreading?
+Ans: When two or more threads are used in order to perform a task, it is called multithreading.
+     Multithreading is only going to be effective till when the number of threads that you've assigned to the process is less than the number of cores your computer have.
+     Ex: Taking the input in the MS word runs simultaneously with the type checking.
+
+Que3.  Then what the heck is multiprogramming?
+Ans: Multiple programme running simultaneously is called multiprogramming, for example: Code editor and Chrome running simultaneously.
+
+Que4.  I'm confused now tell me the difference between multithreading and multiprogramming
+Ans: Multiprogramming is when multiple applications(process) runs simultaneously. Multithreading is when multiple micro-processes within than process runs simultaneously.
